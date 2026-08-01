@@ -1,8 +1,8 @@
 {
   "FREE_DAILY_ACTIONS": 20,
-  "PRO_PRICE_PKR": 1,
-  "PRO_PRICE_LABEL": "Free for Now Limited time offer",
-  "FREE_PRICE_LABEL": "مفت",
+  "PRO_PRICE_PKR": 2,
+  "PRO_PRICE_LABEL": "2.99$",
+  "FREE_PRICE_LABEL": "Free",
   "CHECKOUT_URL": "https://app.qalamstudio.xyz/?page=request_pro",
   "FREE_FEATURES": "✓ Urdu AI Writer|✓ Freelancer Toolkit|✓ Subtitle Generator|✓ 20 actions/day|✗ Ads on every generation|✗ Roman/Mixed Urdu limited",
   "PRO_FEATURES": "✓ All tools unlimited|✓ All language styles|✓ Unlimited actions/day|✓ Zero ads|✓ Priority generation|✓ Batch subtitle translation"
