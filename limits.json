@@ -1,9 +1,9 @@
 {
-  "FREE_DAILY_ACTIONS": 20,
+  "FREE_DAILY_ACTIONS": 15,
   "PRO_PRICE_PKR": 840,
   "PRO_PRICE_LABEL": "2.99$",
   "FREE_PRICE_LABEL": "Free",
   "CHECKOUT_URL": "https://checkout.freemius.com/product/36355/plan/60175/",
-  "FREE_FEATURES": "✓ Urdu AI Writer|✓ Freelancer Toolkit|✓ Subtitle Generator|✓ 20 actions/day|✗ Ads on every generation|✗ Roman/Mixed Urdu limited",
+  "FREE_FEATURES": "✓ Urdu AI Writer|✓ Freelancer Toolkit|✓ Subtitle Generator|✓ 15 actions/day|✗ Ads on every generation|✗ Roman/Mixed Urdu limited",
   "PRO_FEATURES": "✓ All tools unlimited|✓ All language styles|✓ Unlimited actions/day|✓ Zero ads|✓ Priority generation|✓ Batch subtitle translation"
 }
